@@ -1,0 +1,2 @@
+# Script.lua
+Sword
